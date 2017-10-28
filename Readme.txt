@@ -1,4 +1,4 @@
-Topics to Cover:
+# Bash Scripting
 
 - Simple Unix Commands
 - Variables
